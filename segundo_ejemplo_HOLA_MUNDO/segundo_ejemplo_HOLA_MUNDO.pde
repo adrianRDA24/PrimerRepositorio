@@ -4,10 +4,12 @@ String nombre = "Adrian";
 public void setup(){
   size(800,300); 
    //println("Hola mundo");
- //  println("Escribi tu nombre y apretar <ENTER> al terminar");
+  println("APRETA LA TECLA <ENTER>");
   fill(0);
   textSize(18);
-   text("Hola mundo... Escribe tu nombre y presiona <ENTER>... ",15,50);
+  // text("Hola mundo... Escribe tu nombre y presiona <ENTER>... ",15,50);
+   text("APRETA LA TECLA <ENTER>... ",15,50);
+ // println("APRETA LA TECLA <ENTER>");
   
 };
 
